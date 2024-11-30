@@ -1,4 +1,4 @@
-Explore the world of Artificial Intelligence (AI) with these free study materials/resources/links. 
+Explore the world of Artificial Intelligence (AI) with these curated study materials/resources/links. 
 
 <b>Basics of Artificial Intelligence</b>
 
