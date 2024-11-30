@@ -20,8 +20,12 @@ Explore the world of Artificial Intelligence (AI) with these free study material
     Link: https://www.udacity.com/enrollment/ud201
 
   Linear Algebra 
+
+  Book: Basics of Linear Algebra for Machine Learning Discover the Mathematical Language of Data in Python Jason Brownlee
   
   Calculus
+
+  Book: Basics of Linear Algebra for Machine Learning by Jason Brownlee
 
 <b>Python Programming</b>
 
