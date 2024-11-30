@@ -40,7 +40,8 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
 <b>Data Analytics</b>
 
   Book: Exploratory Data Analysis with Python By Suresh Kumar Mukhiya and Usman Ahmad
-  
+
+  Book: Hands On Data Analysis with Pandas By Stefanie Molin
 
 <b>Machine Learning</b>
 
