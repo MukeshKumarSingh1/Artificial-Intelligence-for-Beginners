@@ -2,13 +2,15 @@ Explore the world of Artificial Intelligence (AI) with these free study material
 
 <b>Basics of Artificial Intelligence</b>
 
+  Book Link: http://lib.ysu.am/disciplines_bk/b7707dde83ee24b2b23999b4df5fd988.pdf
+
 <b>Maths for AI/ML</b>
 
   Statistics 
   
-    https://www.udacity.com/enrollment/st101  
+    Link: https://www.udacity.com/enrollment/st101  
   
-    https://www.udacity.com/enrollment/ud201
+    Link: https://www.udacity.com/enrollment/ud201
 
   Linear Algebra 
   
