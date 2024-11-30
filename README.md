@@ -32,6 +32,8 @@ Explore the world of Artificial Intelligence (AI) with these free study material
 
 Book: Mastering Machine Learnin Algorithms By Jason Brownlee
 
+Book: The Orange Book of Machine Learning by Carl McBride Ellis
+
 <b>Deep Neural Networks</b>
 
 <b>Natural language Processing</b>
