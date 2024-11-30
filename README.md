@@ -2,7 +2,7 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
 
 <b>Basics of Artificial Intelligence</b>
 
-  Book: Artificial Intelligence: A Modern Approach by Russell & Norvig
+   Book: Artificial Intelligence: A Modern Approach by Russell & Norvig
 
 <b>Maths for AI/ML</b>
 
