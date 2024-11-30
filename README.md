@@ -10,6 +10,10 @@ Explore the world of Artificial Intelligence (AI) with these free study material
 
   Statistics 
     Book: Statistical Methods FOR MACHINE LEARNING By Jason Brownlee
+    
+    Book: Introduction to Statistical Machine Learning By Masashi Sugiyama
+
+    Book: Data Science and Machine Learning Mathematical and Statistical Methods By Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, Radislav Vaisman
   
     Link: https://www.udacity.com/enrollment/st101  
   
