@@ -8,6 +8,8 @@ Explore the world of Artificial Intelligence (AI) with these free study material
 
   Book: Practical Discrete Mathematics By Ryan T White
 
+  Book: Mathematical Foundations of Machine Learning By Seongjai Kim
+
   Statistics 
     Book: Statistical Methods FOR MACHINE LEARNING By Jason Brownlee
     
@@ -22,6 +24,10 @@ Explore the world of Artificial Intelligence (AI) with these free study material
   Linear Algebra 
 
   Book: Basics of Linear Algebra for Machine Learning Discover the Mathematical Language of Data in Python Jason Brownlee
+
+  Book: Linear Algebra Done Right By Sheldon Axler
+
+  YouTube: https://www.youtube.com/@mathtalent
   
   Calculus
 
