@@ -25,15 +25,16 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
 
   Linear Algebra 
 
-  Book: Basics of Linear Algebra for Machine Learning Discover the Mathematical Language of Data in Python Jason Brownlee
-
-  Book: Linear Algebra Done Right By Sheldon Axler
-
-  YouTube: https://www.youtube.com/@mathtalent
+     Book: Basics of Linear Algebra for Machine Learning Discover the Mathematical Language of Data in Python Jason Brownlee
+   
+     Book: Linear Algebra Done Right By Sheldon Axler
+   
+     YouTube: https://www.youtube.com/@mathtalent
+     YouTube:  Link: https://www.youtube.com/@TheOrganicChemistryTutor/playlists
   
   Calculus
 
-  Book: Basics of Linear Algebra for Machine Learning by Jason Brownlee
+     Book: Basics of Linear Algebra for Machine Learning by Jason Brownlee
 
 <b>Python Programming</b>
 
