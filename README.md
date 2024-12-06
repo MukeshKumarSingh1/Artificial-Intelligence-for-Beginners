@@ -9,6 +9,8 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
   Book: Practical Discrete Mathematics By Ryan T White
 
   Book: Mathematical Foundations of Machine Learning By Seongjai Kim
+  
+  Link: https://www.youtube.com/@TheOrganicChemistryTutor/playlists
 
   Statistics 
     Book: Statistical Methods FOR MACHINE LEARNING By Jason Brownlee
@@ -17,9 +19,9 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
 
     Book: Data Science and Machine Learning Mathematical and Statistical Methods By Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, Radislav Vaisman
   
-    Link: https://www.udacity.com/enrollment/st101  
-  
-    Link: https://www.udacity.com/enrollment/ud201
+    Link: https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV
+    
+    Link: https://www.udacity.com/enrollment/ud201](https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 
   Linear Algebra 
 
