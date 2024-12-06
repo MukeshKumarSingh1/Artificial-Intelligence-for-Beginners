@@ -49,15 +49,25 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
 
 <b>Machine Learning</b>
 
-Book: Mastering Machine Learnin Algorithms By Jason Brownlee
-
-Book: The Orange Book of Machine Learning by Carl McBride Ellis
+   Book: Mastering Machine Learnin Algorithms By Jason Brownlee
+   
+   Book: The Orange Book of Machine Learning by Carl McBride Ellis
 
 <b>Deep Neural Networks</b>
 
+   Book:
+
+   Link:
+
 <b>Natural language Processing</b>
+   
+   Book:
+
+   Link:
 
 <b>AI Compute Platforms / MLOps</></b>
 
+   Book:
 
+   Link:
 
