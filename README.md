@@ -6,11 +6,11 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
 
 <b>Maths for AI/ML</b>
 
-  Book: Practical Discrete Mathematics By Ryan T White
-
-  Book: Mathematical Foundations of Machine Learning By Seongjai Kim
-  
-  Link: https://www.youtube.com/@TheOrganicChemistryTutor/playlists
+     Book: Practical Discrete Mathematics By Ryan T White
+   
+     Book: Mathematical Foundations of Machine Learning By Seongjai Kim
+     
+     Link: https://www.youtube.com/@TheOrganicChemistryTutor/playlists
 
   Statistics 
     Book: Statistical Methods FOR MACHINE LEARNING By Jason Brownlee
