@@ -26,7 +26,7 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
     
     Link: https://www.udacity.com/enrollment/ud201](https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 
-  **Linear Algebra **
+  **Linear Algebra**
 
      Book: Basics of Linear Algebra for Machine Learning Discover the Mathematical Language of Data in Python Jason Brownlee
    
@@ -40,38 +40,42 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
      Book: Basics of Linear Algebra for Machine Learning by Jason Brownlee
 
 **Python Programming**
+   
+      Book:
 
 **Advance Python Proramming**
+   
+      Book
 
 **Data Analytics**
 
-  Book: Business Statistics For Contemporary Decision Making by Ken Black
+     Book: Business Statistics For Contemporary Decision Making by Ken Black
   
-  Book: Exploratory Data Analysis with Python By Suresh Kumar Mukhiya and Usman Ahmad
-
-  Book: Hands On Data Analysis with Pandas By Stefanie Molin
+     Book: Exploratory Data Analysis with Python By Suresh Kumar Mukhiya and Usman Ahmad
+   
+     Book: Hands On Data Analysis with Pandas By Stefanie Molin
 
 **Machine Learning**
 
-   Book: Mastering Machine Learnin Algorithms By Jason Brownlee
+      Book: Mastering Machine Learnin Algorithms By Jason Brownlee
    
-   Book: The Orange Book of Machine Learning by Carl McBride Ellis
+      Book: The Orange Book of Machine Learning by Carl McBride Ellis
 
 **Deep Neural Networks**
 
-   Book:
+      Book:
 
-   Link:
+      Link:
 
 **Natural language Processing**
    
-   Book:
+      Book:
 
-   Link:
+      Link:
 
 **AI Compute Platforms / MLOps**
 
-   Book:
+      Book:
 
-   Link:
+      Link:
 
