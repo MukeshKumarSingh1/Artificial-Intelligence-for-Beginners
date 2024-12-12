@@ -24,9 +24,9 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
 
     Book: Data Science and Machine Learning Mathematical and Statistical Methods By Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, Radislav Vaisman
   
-    Link: https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV
+    Youtube: https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV
     
-    Link: https://www.udacity.com/enrollment/ud201](https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
+    Youtube: https://www.udacity.com/enrollment/ud201](https://www.youtube.com/watch?v=XZo4xyJXCak&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 
   **Linear Algebra**
 
@@ -35,19 +35,26 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
      Book: Linear Algebra Done Right By Sheldon Axler
    
      YouTube: https://www.youtube.com/@mathtalent
+     
      YouTube:  Link: https://www.youtube.com/@TheOrganicChemistryTutor/playlists
   
   **Calculus**
 
      Book: Basics of Linear Algebra for Machine Learning by Jason Brownlee
 
+     Youtube :
+
 **Python Programming**
    
       Book:
 
+      Youtube: 
+
 **Advance Python Proramming**
    
-      Book
+      Book: 
+
+      Youtube: 
 
 **Data Analytics**
 
@@ -57,15 +64,19 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
    
      Book: Hands On Data Analysis with Pandas By Stefanie Molin
 
+     Youtube:
+
 **Machine Learning**
 
       Book: Mastering Machine Learnin Algorithms By Jason Brownlee
    
       Book: The Orange Book of Machine Learning by Carl McBride Ellis
 
+      Youtube: 
+
 **Deep Neural Networks**
 
-      Book:
+      Book: Grokking Deep Learning
 
       Youtube.com: https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
 
@@ -77,11 +88,11 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
    
       Book:
 
-      Link:
+      Youtube:
 
 **AI Compute Platforms / MLOps**
 
       Book:
 
-      Link:
+      Youtube:
 
