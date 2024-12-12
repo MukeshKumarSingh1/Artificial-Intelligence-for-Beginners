@@ -69,6 +69,8 @@ Explore the world of Artificial Intelligence (AI) with these curated study mater
 
       Youtube.com: https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
 
+      Youtube: https://www.youtube.com/watch?v=GHDSwZsVrHQ&list=PLLTSM0eKjC2cSNGs87NyD3Q22t_qBEROY&index
+
 **Natural language Processing**
    
       Book:
